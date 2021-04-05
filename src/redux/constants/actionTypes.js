@@ -1,0 +1,4 @@
+export const LIST_POST_SUCCESS = 'LIST_POST_SUCCESS';
+export const LIST_POST_FAIL = 'LIST_POST_FAIL';
+export const CREATE_SUCCESS = 'CREATE_SUCCESS';
+export const CREATE_FAIL = 'CREATE_FAIL';
